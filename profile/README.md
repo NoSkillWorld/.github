@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200px" src="https://play.noskillworld.fr/assets/images/logo_nsw.png"/>
+  <img height="175px" src="https://play.noskillworld.fr/assets/images/logo_nsw.png"/>
   <h1 align="center">NOSKILLWORLD - Serveur Minecraft</h1>
 </p>
 
@@ -19,4 +19,4 @@
 </p>
 
 <h3>Salut ! 👋</h3>
-<p>Bienvenue à toi sur le github de NoSkillWorld !</p>
+<span>Bienvenue à toi sur le github de NoSkillWorld !</span>
