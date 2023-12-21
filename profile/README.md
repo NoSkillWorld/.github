@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://play.noskillworld.fr">
-    <img height="30px" src="https://play.noskillworld.fr/assets/images/internet.svg"/>
+    <img height="26px" src="https://play.noskillworld.fr/assets/images/internet.svg"/>
   </a>&nbsp;&nbsp;
   <a href="https://discord.noskillworld.fr">
     <img height="30px" src="https://play.noskillworld.fr/assets/images/discord.svg"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/NoSkillWorld">
-    <img height="30px" src="https://play.noskillworld.fr/assets/images/twitter.svg"/>
+    <img height="26px" src="https://play.noskillworld.fr/assets/images/twitter.svg"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/noskillworld/">
     <img height="32px" src="https://play.noskillworld.fr/assets/images/instagram.svg"/>
