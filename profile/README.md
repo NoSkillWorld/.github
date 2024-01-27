@@ -16,9 +16,12 @@
   <a href="https://www.instagram.com/noskillworld/">
     <img height="32px" src="https://play.noskillworld.fr/assets/images/instagram.svg"/>
   </a>&nbsp;&nbsp;
-   <a href="">
+   <a href="https://www.tiktok.com/@noskillworld_mc">
     <img height="30px" src="https://play.noskillworld.fr/assets/images/tiktok.svg"/>
   </a>&nbsp;&nbsp;
+   <a href="https://www.youtube.com/@noskillworld_mc">
+    <img height="30px" src="https://play.noskillworld.fr/assets/images/youtube.svg"/>
+  </a>
 </p>
 
 <h3>Salut ! 👋</h3>
