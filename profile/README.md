@@ -24,5 +24,17 @@
   </a>
 </p>
 
-<h3>Salut ! 👋</h3>
-<span>Bienvenue à toi sur le github de NoSkillWorld !</span>
+### Salut ! 👋
+Bienvenue à toi sur le github de NoSkillWorld !
+
+## Présentation
+
+
+## Développeurs
+- [Herbyvor](https://github.com/jeanfrancoisemil)
+- [NuggetReckt](https://github.com/NuggetReckt)
+> Retrouvez toute l'équipe sur [cette page](https://play.noskillworld.fr/equipe) !
+
+## Repositories
+- [NSWAPI](https://github.com/NoSkillWorld/NSWAPI), notre API générale pour la gestion des Rangs d'Honneur, de ses récompenses et des reports
+- [EventAPI](https://github.com/NoSkillWorld/EventAPI), notre API pour gérer nos events
