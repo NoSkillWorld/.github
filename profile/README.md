@@ -28,13 +28,16 @@
 Bienvenue à toi sur le github de NoSkillWorld !
 
 ## Présentation
+NoSkillWorld est un serveur Semi-RP, où le joueur est plongé dans une aventure survie, le tout dans un environnement RP avec des quêtes et des métiers.
+Ouvert de puis février 2021, NoSkillWorld essaie de se démarquer des autres serveurs Semi-RP en proposant des concepts innovants et originaux.
 
+Rejoins l'aventure avec l'IP **play.noskillworld.fr** !
 
 ## Développeurs
 - [Herbyvor](https://github.com/jeanfrancoisemil)
 - [NuggetReckt](https://github.com/NuggetReckt)
-> Retrouvez toute l'équipe sur [cette page](https://play.noskillworld.fr/equipe) !
+> Retrouve toute l'équipe sur [cette page](https://play.noskillworld.fr/equipe) !
 
 ## Repositories
-- [NSWAPI](https://github.com/NoSkillWorld/NSWAPI), notre API générale pour la gestion des Rangs d'Honneur, de ses récompenses et des reports
-- [EventAPI](https://github.com/NoSkillWorld/EventAPI), notre API pour gérer nos events
+- [NSWAPI](https://github.com/NoSkillWorld/NSWAPI), notre API générale pour la gestion des Rangs d'Honneur, des récompenses et des reports
+- [EventAPI](https://github.com/NoSkillWorld/EventAPI), notre API pour gérer nos events géniaux
