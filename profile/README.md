@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="175px" src="https://noskillworld.fr/assets/images/logo_nsw.png"/>
+  <img height="175px" src="https://noskillworld.fr/assets/images/logo-nsw.png"/>
   <h1 align="center">NOSKILLWORLD - Serveur Minecraft</h1>
 </p>
 
